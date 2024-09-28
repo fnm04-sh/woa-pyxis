@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/fnm04-sh/woa-pyxis/blob/main/Picsart_24-09-28_14-35-32-946.png" width="350" alt="Windows 11 running on pyxis">
 
-# Running Windows on the Xiaomi Mi 9 Lite
+# Running Windows on the Xiaomi Mi 9 Lite / Mi CC9
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/WinOnMIX2S)
 
 ## ⚠️ Warning
