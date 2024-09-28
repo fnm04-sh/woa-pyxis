@@ -20,15 +20,15 @@ This project is in an early stage, all the files here have been contributed by o
 
 
 ## Miscellaneous
-- [Dualboot setup](guide/dualboot.md)
+- [Dualboot setup (W.I.P)](guide/dualboot.md)
 
-- [Additional materials](guide/materials.md)
+- [Additional materials (W.I.P)](guide/materials.md)
 
-- [Update drivers](guide/update.md)
+- [Update drivers (W.I.P)](guide/update.md)
 
-- [Reinstall instructions](guide/reinstall.md)
+- [Reinstall instructions (W.I.P)](guide/reinstall.md)
 
-- [Uninstall instructions](guide/uninstall.md)
+- [Uninstall instructions (W.I.P)](guide/uninstall.md)
 
 
 ## Contributors
